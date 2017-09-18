@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace EducationWithEF
 {
-    class Program{
-
-        static void Main(string[] args) {
-
-        }
+    class Class1
+    {
     }
 }
